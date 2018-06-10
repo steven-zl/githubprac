@@ -1,4 +1,10 @@
 test1
+<<<<<<< .mine
 
 
+=======
+
+
+>>>>>>> .theirs
 test main
+test1 - 1
